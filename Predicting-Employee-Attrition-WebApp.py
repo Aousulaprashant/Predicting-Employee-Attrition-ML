@@ -51,7 +51,7 @@ def predict_new_data(input_data):
 
 # Streamlit UI
 def main():
-    st.title('Predicting Employee Attrition')
+    st.title('Prashanth Pvt ltds - Predicting Employee Attrition')
 
     city_development_index = st.text_input('City Development Index (float)')
     gender = st.selectbox('Gender', ['Male', 'Female', 'Other'])
