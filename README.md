@@ -6,6 +6,18 @@ Employee attrition is a critical concern for organizations, as high turnover can
 ## **Live Demo**  
 🚀 **Try the deployed app here**: [Predicting Employee Attrition App](https://predicting-employee-attrition-mlgit-rsqxhncdhztsgtwg3pq2ka.streamlit.app/)  
 
+## **Tech Stack & Tools Used**  
+✅ **Programming Languages**: Python  
+✅ **Machine Learning Library**: scikit-learn  
+✅ **Algorithms Used**:  
+   - **SVM Classifier (Support Vector Machine)**: A powerful supervised learning algorithm used for classification.  
+   - **Random Forest**: A robust ensemble learning technique.  
+   - **XGBoost (Extreme Gradient Boosting)**: High-performance boosting algorithm for classification tasks.  
+✅ **Framework**: **Streamlit** – Used for building an interactive web application.  
+✅ **Development Environment**: **Anaconda** – Managed dependencies and environments efficiently.  
+✅ **Deployment**: **Streamlit Cloud** – Hosted the application online for easy access.  
+✅ **Version Control**: Git & GitHub – Managed project updates and collaboration.  
+
 ## **Dataset**  
 The dataset used in this project is the **HR Analytics: Job Change of Data Scientists** dataset from Kaggle.  
 📌 **Dataset Link**: [HR Analytics Job Change Dataset](https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists)  
