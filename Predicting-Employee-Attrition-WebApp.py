@@ -51,7 +51,9 @@ def predict_new_data(input_data):
 
 # Streamlit UI
 def main():
-    st.title('Prashanth Pvt ltds - Predicting Employee Attrition')
+    st.markdown("<h1 style='text-align: center; color: blue;'>Prashanth PTV Ltd</h1>", unsafe_allow_html=True)
+
+    st.title('Predicting Employee Attrition')
 
     city_development_index = st.text_input('City Development Index (float)')
     gender = st.selectbox('Gender', ['Male', 'Female', 'Other'])
