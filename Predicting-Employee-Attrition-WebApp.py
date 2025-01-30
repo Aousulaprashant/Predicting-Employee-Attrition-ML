@@ -4,7 +4,7 @@ import pickle
 import streamlit as st
 
 # Load the trained model
-load_model = pickle.load(open('C:/Users/Prashanth/Desktop/ML/ML_PROJECTS/Predicting-Employee-Attrition/employee-predict-model.sav', 'rb'))
+load_model = pickle.load(open('employee-predict-model.sav', 'rb'))
 
 # Define categorical mappings (adjust based on your dataset's encoding)
 gender_map = {'Male': 0, 'Female': 1, 'Other': 2}
