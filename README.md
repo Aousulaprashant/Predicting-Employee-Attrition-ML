@@ -31,12 +31,12 @@ All **data preprocessing, feature engineering, model training, evaluation, and f
 This file contains:  
 ✔️ Data Cleaning & Preprocessing  
 ✔️ Feature Selection & Engineering  
-✔️ Model Training (SVM, Random Forest, XGBoost)  
+✔️ Model Training (SVM)  
 ✔️ Model Evaluation Metrics  
 ✔️ Hyperparameter Tuning  
 
 ## **Skills Acquired**  
-✔ **Machine Learning** – Implementing classification models (SVM, Random Forest, XGBoost)  
+✔ **Machine Learning** – Implementing classification models (SVM)  
 ✔ **Data Preprocessing** – Handling missing values, feature scaling, and encoding categorical data  
 ✔ **Model Deployment** – Deploying ML models using **Streamlit**  
 ✔ **Python & Libraries** – Using pandas, NumPy, scikit-learn, and Streamlit for building applications  
