@@ -26,6 +26,23 @@ The **HR Analytics Dataset** contains various employee-related features that can
 - **Compensation**: Salary, Bonuses, Promotions  
 - **Performance & Satisfaction**: Job Satisfaction, Training Hours, Performance Rating  
 
+## **Implementation Details**  
+All **data preprocessing, feature engineering, model training, evaluation, and fine-tuning** are implemented in the Jupyter Notebook file:  
+📂 **File**: `predicting_Employee_Attrition.ipynb`  
+This file contains:  
+✔️ Data Cleaning & Preprocessing  
+✔️ Feature Selection & Engineering  
+✔️ Model Training (SVM, Random Forest, XGBoost)  
+✔️ Model Evaluation Metrics  
+✔️ Hyperparameter Tuning  
+
+## **Skills Acquired**  
+✔ **Machine Learning** – Implementing classification models (SVM, Random Forest, XGBoost)  
+✔ **Data Preprocessing** – Handling missing values, feature scaling, and encoding categorical data  
+✔ **Model Deployment** – Deploying ML models using **Streamlit**  
+✔ **Python & Libraries** – Using pandas, NumPy, scikit-learn, and Streamlit for building applications  
+✔ **Version Control & Collaboration** – Managing code with **Git & GitHub**  
+
 ## **Objective**  
 The primary goal is to build a predictive model that can:  
 ✅ Identify key factors leading to employee attrition  
