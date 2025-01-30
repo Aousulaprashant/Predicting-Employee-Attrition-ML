@@ -3,6 +3,9 @@
 ## **Project Overview**  
 Employee attrition is a critical concern for organizations, as high turnover can lead to increased costs and loss of talent. This project aims to predict which employees are likely to leave the company using Machine Learning techniques, helping HR teams take proactive measures to retain valuable employees.  
 
+## **Live Demo**  
+🚀 **Try the deployed app here**: [Predicting Employee Attrition App](https://predicting-employee-attrition-mlgit-rsqxhncdhztsgtwg3pq2ka.streamlit.app/)  
+
 ## **Dataset**  
 The dataset used in this project is the **HR Analytics: Job Change of Data Scientists** dataset from Kaggle.  
 📌 **Dataset Link**: [HR Analytics Job Change Dataset](https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists)  
