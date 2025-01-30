@@ -10,9 +10,7 @@ Employee attrition is a critical concern for organizations, as high turnover can
 ✅ **Programming Languages**: Python  
 ✅ **Machine Learning Library**: scikit-learn  
 ✅ **Algorithms Used**:  
-   - **SVM Classifier (Support Vector Machine)**: A powerful supervised learning algorithm used for classification.  
-   - **Random Forest**: A robust ensemble learning technique.  
-   - **XGBoost (Extreme Gradient Boosting)**: High-performance boosting algorithm for classification tasks.  
+   - **SVM Classifier (Support Vector Machine)**: A powerful supervised learning algorithm used for classification.   
 ✅ **Framework**: **Streamlit** – Used for building an interactive web application.  
 ✅ **Development Environment**: **Anaconda** – Managed dependencies and environments efficiently.  
 ✅ **Deployment**: **Streamlit Cloud** – Hosted the application online for easy access.  
